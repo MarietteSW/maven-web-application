@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://localhost:8081/repository/nexus1repo/</url>
+	      <name>maven_with_Nerise_Releases</name>
+	      <url>http://localhost:8081/repository/maven_with_Nerise_Releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://localhost:8081/repository/nexus1snapshotrepo/</url>
+	      <name>mvn_with_Nerise_snapshot</name>
+	      <url>http://localhost:8081/repository/mvn_with_Nerise_snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
